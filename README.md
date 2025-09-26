@@ -25,8 +25,7 @@ We apply functions like `SUM`, `AVG`, `MIN`, `MAX`, `COUNT` along with `GROUP BY
 ---
 
 ## 📂 Files Included
-- **`task4_aggregate_queries.sql`** → SQL script with all aggregate and grouping queries.  
-- **`README_Task4.md`** → Documentation explaining queries and outcomes.  
+SQL file: [`library_schema_task4.sql`](library_schema_task4.sql)
 
 ---
 
